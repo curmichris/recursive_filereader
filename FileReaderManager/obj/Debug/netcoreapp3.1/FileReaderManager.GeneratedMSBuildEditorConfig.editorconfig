@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FileReaderManager
+build_property.ProjectDir = /Users/chcu01/src/recursive_filereader/FileReaderManager/
